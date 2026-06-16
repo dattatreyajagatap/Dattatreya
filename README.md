@@ -78,8 +78,8 @@ const dattatreya = {
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
-| 📚 **Fliplearn Plus** | LMS app for JEE, NEET, UPSC prep — MCQs, flashcards, analytics | React Native, Firebase, Node.js, AWS | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fliplearnplus) |
 | 🚌 **Namma Bus** | KSRTC bus timings app — live routes, smart search, 500+ downloads | React Native, REST APIs, Redux | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ispansolutions.nammabus) |
+| 📚 **Fliplearn Plus** | LMS app for JEE, NEET, UPSC prep — MCQs, flashcards, analytics | React Native, Firebase, Node.js, AWS | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fliplearnplus) |
 | 🛒 **GMS India** | Role-based e-commerce for microelectronics & semiconductors | React.js, GraphQL, Apollo, Node.js | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.gms-india.com/) |
 | 🏫 **University ERP** | Payroll, leave & task management system for universities | React.js, PHP, MariaDB | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.future.education.ai) |
 | 💰 **NGO Accounting** | Fund management, donor tracking & audit logs for NGOs | React.js, PHP, MySQL, Redux | 🔒 Private |
@@ -133,5 +133,3 @@ const dattatreya = {
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
-EOF
-echo "Done!"
