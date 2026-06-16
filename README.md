@@ -1,6 +1,3 @@
-bash
-
-cat > /mnt/user-data/outputs/README.md << 'EOF'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dattatreya%20Jagatap&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Developer%20%7C%20React%20Native%20%7C%20React.js%20%7C%20AI%20Integration&descAlignY=55&descSize=16" />
